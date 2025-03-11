@@ -5,3 +5,5 @@ Two or more meanings that do not agree but combine to make clear a complicated s
 When the "author is discovering his idea in the act of writing..." Empson describes a simile that lies halfway between two statements made by the author.
 When a statement says nothing and the readers are forced to invent a statement of their own, most likely in conflict with that of the author.
 Two words that within context are opposites that expose a fundamental division in the author's mind.
+
+--William Empson, 1930
